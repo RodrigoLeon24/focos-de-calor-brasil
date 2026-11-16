@@ -7,14 +7,14 @@
 ![FAIR](https://img.shields.io/badge/FAIR-compliant-1565c0)
 ![Fonte](https://img.shields.io/badge/fonte-INPE%20BDQueimadas-8e2424)
 
-**📄 Artigo interativo (GitHub Pages):** https://SEU-USUARIO.github.io/focos-de-calor-brasil/
+**📄 Artigo interativo (GitHub Pages):** https://RodrigoLeon24.github.io/focos-de-calor-brasil/
 
 | | |
 |---|---|
-| **Autores** | [Nome do(a) Aluno(a) 1], [Nome do(a) Aluno(a) 2], [Nome do(a) Aluno(a) 3] |
+| **Autores** | Rodrigo Leon de Andrade Silva |
 | **Curso** | Bacharelado em Sistemas de Informação — 6º Período |
 | **Disciplina** | Linguagem de Programação (Análise e Visualização de Dados com Python) |
-| **Instituição** | [Nome da Instituição] |
+| **Instituição** | Unilasalle - RJ |
 | **Semestre** | 2026/2 |
 
 ## Resumo executivo
@@ -69,7 +69,7 @@ Pré-requisito: Python 3.13 (testado com 3.13.18).
 
 ```bash
 # 1. Clonar e preparar o ambiente
-git clone https://github.com/SEU-USUARIO/focos-de-calor-brasil.git
+git clone https://github.com/RodrigoLeon24/focos-de-calor-brasil.git
 cd focos-de-calor-brasil
 python -m venv .venv
 source .venv/bin/activate          # Windows: .venv\Scripts\activate
@@ -109,7 +109,3 @@ O pipeline é determinístico: mesma entrada ⇒ mesmos arquivos de saída (orde
 - **Código:** MIT — ver [`LICENSE`](LICENSE).
 - **Dados processados, figuras e texto do artigo:** CC BY 4.0.
 - **Dados brutos:** INPE, Programa Queimadas. Cite: *INPE. Banco de Dados de Queimadas (BDQueimadas). São José dos Campos: INPE.*
-
-Para citar este trabalho:
-
-> [SOBRENOME, Nome; SOBRENOME, Nome]. **Fogo no Brasil: dinâmica temporal, concentração espacial e condicionantes meteorológicos dos focos de calor (2012–2021)**. [Instituição], 2026. Disponível em: https://github.com/SEU-USUARIO/focos-de-calor-brasil.
