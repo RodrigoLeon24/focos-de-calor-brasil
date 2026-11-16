@@ -1,0 +1,20 @@
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Dados brutos (~200 MB, acima do limite do GitHub) — baixe com data/raw/download_data.py
+data/raw/*.csv
+data/raw/*.zip
+
+# Sistema / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

@@ -1,0 +1,20 @@
+# Ambiente determinístico — Python 3.13 (versões congeladas com `pip freeze`)
+# Núcleo da análise
+pandas==3.0.5
+numpy==2.5.3
+scipy==1.18.1
+matplotlib==3.11.2
+# Dependências transitivas fixadas
+python-dateutil==2.9.0.post0
+six==1.17.0
+contourpy==1.4.0
+cycler==0.12.1
+fonttools==4.67.0
+kiwisolver==1.5.1
+packaging==26.3
+pillow==12.3.0
+pyparsing==3.3.3
+# Aquisição dos dados brutos (download público, sem credenciais)
+kagglehub==0.3.12
+# Execução do notebook
+jupyterlab==4.4.5

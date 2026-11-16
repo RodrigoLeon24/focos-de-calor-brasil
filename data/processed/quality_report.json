@@ -1,0 +1,26 @@
+{
+  "linhas_brutas": 1867181,
+  "datas_invalidas": 0,
+  "bioma_nao_mapeado": 0,
+  "sentinelas_-999": {
+    "diasemchuva": 10611,
+    "precipitacao": 0,
+    "riscofogo": 8130,
+    "frp": 0
+  },
+  "riscofogo_fora_0_1": 0,
+  "frp_negativo": 0,
+  "diasemchuva_maior_365": 693,
+  "coordenadas_fora_brasil_removidas": 0,
+  "duplicatas_removidas": 2,
+  "linhas_sem_data_removidas": 0,
+  "uf_nao_mapeada": 0,
+  "linhas_finais": 1867179,
+  "percentual_nulos_final": {
+    "diasemchuva": 0.1934,
+    "precipitacao": 0.1877,
+    "riscofogo": 0.192,
+    "classe_risco": 0.192,
+    "frp": 0.6065
+  }
+}
