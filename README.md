@@ -7,7 +7,7 @@
 ![FAIR](https://img.shields.io/badge/FAIR-compliant-1565c0)
 ![Fonte](https://img.shields.io/badge/fonte-INPE%20BDQueimadas-8e2424)
 
-**📄 Artigo interativo (GitHub Pages):** https://RodrigoLeon24.github.io/focos-de-calor-brasil/
+**Artigo interativo (GitHub Pages):** https://rodrigoleon24.github.io/focos-de-calor-brasil/
 
 | | |
 |---|---|
